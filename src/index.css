@@ -1,6 +1,8 @@
-@import "tailwindcss";
+/* src/index.css */
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
 
-
+/* Custom animations */
 @keyframes glow {
   0%, 100% {
     opacity: 0.2;
@@ -11,6 +13,7 @@
     transform: scale(1.05);
   }
 }
+
 @keyframes glowText {
   0%, 100% {
     text-shadow:
