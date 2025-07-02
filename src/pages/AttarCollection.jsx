@@ -170,7 +170,7 @@ export default function AttarCollection() {
                   <li><span className="font-bold">12ml:</span> ₹{p6 * 2}</li>
                 </ul>
                 <div className="text-center">
-                  <a href="https://wa.me/8210981450" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-gradient-to-r from-pink-600 to-purple-700 text-white rounded-lg hover:from-pink-700 hover:to-purple-800 transition">
+                  <a href="https://wa.me/+919304109387" target="_blank" rel="noopener noreferrer" className="inline-block mt-4 px-4 py-2 bg-gradient-to-r from-pink-600 to-purple-700 text-white rounded-lg hover:from-pink-700 hover:to-purple-800 transition">
                     Order on WhatsApp
                   </a>
                 </div>
