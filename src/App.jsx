@@ -1,6 +1,7 @@
 import { Routes, Route } from "react-router-dom"
 import Home from "./Home"
 import AttarCollection from "./pages/AttarCollection"
+import "./index.css"; 
 
 export default function App() {
   return (

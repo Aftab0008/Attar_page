@@ -9,6 +9,7 @@ import ScrollContent from "./components/ScrollContent"
 import Navbar from "./components/Navbar"
 import SplashCursor from "../Reactbite/SplashCursor/SplashCursor" // adjust path if needed
 
+
 export default function Home() {
   const containerRef = useRef(null)
 
